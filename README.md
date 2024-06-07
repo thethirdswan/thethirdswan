@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy! 👋
 
 <!--
 **thethirdswan/thethirdswan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub page! I display my random projects here, and currently working to become a reliable full-stack developer!
+
+I also like doing photography, so if you also like photography, why not check my [instagram](https://instagram.com/thirdswanelegance)? You can also follow my blog in [here](https://thethirdswan.com), where I share guides, photography updates and other slice of life things!
+
+Thanks for visiting, and **stay determined**!
